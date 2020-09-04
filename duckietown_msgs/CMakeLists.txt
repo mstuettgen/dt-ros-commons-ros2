@@ -30,6 +30,7 @@ set(msg_files
   "msg/LEDDetection.msg"
   "msg/LEDDetectionArray.msg"
   "msg/LEDDetectionDebugInfo.msg"
+  "msg/LEDPattern.msg"
   "msg/WheelsCmd.msg"
   "msg/WheelsCmdStamped.msg"
   "msg/Pose2DStamped.msg"
