@@ -67,6 +67,7 @@ set(msg_files
   "msg/ObstacleProjectedDetection.msg"
   "msg/ObstacleProjectedDetectionList.msg"
   "msg/ClassifiedObject.msg"
+  "msg/NodeParameter.msg"
 )
 
 set(srv_files
